@@ -17,8 +17,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: https://github.com/davidgrossmann/FM_product-preview-card-component-main
-- Live Site URL: https://davidgrossmann.github.io/product-preview-card-component-main
-
+- Live Site URL: https://davidgrossmann.github.io/FM_product-preview-card-component-main/
 ## My process
 
 ### Built with
